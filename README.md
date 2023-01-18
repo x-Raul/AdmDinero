@@ -5,29 +5,36 @@ Sistema para administrar ingresos y gastos
  
  - Login
  
- ![image](https://user-images.githubusercontent.com/50388714/213088134-e4cea39d-d2d4-4965-a5e8-ff30998a2b24.png)
+ ![image](https://user-images.githubusercontent.com/50388714/213090478-857b4422-41b7-4e97-b8ff-43c7698661fd.png)
 
  - Register
  
- ![image](https://user-images.githubusercontent.com/50388714/213088221-25280a65-5662-4822-b8a5-bf75bbb2b1a3.png)
+![image](https://user-images.githubusercontent.com/50388714/213090505-0cb2c72f-9486-465b-af03-b9ad7df828bb.png)
+
 
  - Index
  
-![image](https://user-images.githubusercontent.com/50388714/213088499-670a4455-0bf4-4a17-9545-354174c59ffb.png)
+![image](https://user-images.githubusercontent.com/50388714/213090561-63575a2b-6009-4ddf-b012-3b87f8c16245.png)
+
 
  - Metas
  
-![image](https://user-images.githubusercontent.com/50388714/213088669-d2221c21-0abd-406f-b75f-93254e84450d.png)
+![image](https://user-images.githubusercontent.com/50388714/213090784-aef79258-9d53-467a-af56-cd7bddc430fc.png)
+
 
 - Crear meta + calculador de ahorro por mes
 
-![image](https://user-images.githubusercontent.com/50388714/213088853-fe3501f5-07d9-47c8-889e-f9c8563d73d3.png)
+![image](https://user-images.githubusercontent.com/50388714/213090647-00c054c4-b4f2-43df-9416-e2a4c164a145.png)
 
 - Ingresos
 
-![image](https://user-images.githubusercontent.com/50388714/213089059-7abe73b9-12a4-475f-ba63-08268790c06e.png)
+![image](https://user-images.githubusercontent.com/50388714/213090843-f82a9ec8-4fa4-4078-a5ae-156200bd5ee6.png)
 
 - Vista de ingresos
 
-![image](https://user-images.githubusercontent.com/50388714/213089191-2710ea13-58ae-42f5-87a9-05b3f3dec446.png)
+![image](https://user-images.githubusercontent.com/50388714/213090870-fea9514a-ee8c-42e1-a791-898568462196.png)
+
+- Admin panel
+
+![image](https://user-images.githubusercontent.com/50388714/213091059-8e3abf73-2efc-4a5c-b184-bf3f8e7554f4.png)
 
