@@ -26,6 +26,10 @@ Sistema para administrar ingresos y gastos
 
 ![image](https://user-images.githubusercontent.com/50388714/213090647-00c054c4-b4f2-43df-9416-e2a4c164a145.png)
 
+- Confirmacion de ahorro
+
+![image](https://user-images.githubusercontent.com/50388714/213091284-d69f9c6e-b608-4ca6-ba7d-b38cdf5564ad.png)
+
 - Ingresos
 
 ![image](https://user-images.githubusercontent.com/50388714/213090843-f82a9ec8-4fa4-4078-a5ae-156200bd5ee6.png)
